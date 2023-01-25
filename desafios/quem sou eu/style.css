@@ -1,0 +1,22 @@
+body{
+    margin: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#redonda{   
+    border-radius: 50%;
+    border: 5px solid rgb(0, 0, 0);
+}
+#face {
+    border: 5px solid black;
+    border-radius: 40%;
+}
+#insta{
+    border: 5px solid black;
+    border-radius: 40%;
+}
+h1{
+    text-align: center;
+}
+#h{
+    text-align: center;
+}
